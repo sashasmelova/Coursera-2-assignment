@@ -1,2 +1,2 @@
 # coursera-test
-Coursera Test Repository
+Coursera 2 Assignment
